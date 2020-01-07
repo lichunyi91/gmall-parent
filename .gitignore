@@ -1,0 +1,3 @@
+# Project exclude paths
+/gmall-api/target/
+/gmall-mbg/target/
